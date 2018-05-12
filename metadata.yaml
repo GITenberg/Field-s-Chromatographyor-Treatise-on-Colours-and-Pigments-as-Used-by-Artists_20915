@@ -1,0 +1,34 @@
+_repo: Field-s-Chromatographyor-Treatise-on-Colours-and-Pigments-as-Used-by-Artists_20915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, George
+    deathdate: 1854
+    gutenberg_agent_id: '9602'
+    url: http://www.gutenberg.org/2009/agents/9602
+  editor:
+    agent_name: Salter, Thomas W.
+    gutenberg_agent_id: '9603'
+    url: http://www.gutenberg.org/2009/agents/9603
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2007-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- Technique'
+- !lcsh 'Color'
+- !lcsh 'Colors'
+- !lcc 'ND'
+title: 'Field''s Chromatography
+
+  or Treatise on Colours and Pigments as Used by Artists'
+url: http://www.gutenberg.org/ebooks/20915
